@@ -1,0 +1,1 @@
+Fundshenanigans is a crowdfunding website based on web 3.0
